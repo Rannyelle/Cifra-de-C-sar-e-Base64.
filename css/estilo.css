@@ -2,7 +2,7 @@
 
 
 body{
-    background: url(../img/imagemdefundo.jpg) no-repeat center;/**imagem de fundo  
+    background: url(../img/imagem\ de\ fundo..jpg) no-repeat center;/**imagem de fundo  
     centralizada**/
     background-size:cover;
    margin:0%;
@@ -33,7 +33,7 @@ h1{
   
 }
 .caixa{
-    background-color: rgba(243, 235, 208, 0.41);
+    background-color: rgba(243, 235, 208, 0.227);
         border: 3px solid black;
             border-radius: 10px;
                 position: relative;
